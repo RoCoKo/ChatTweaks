@@ -1,0 +1,37 @@
+### Translated by RoCoKo
+chattweaks:gui.imagePreview.openInBrowser=Tarayıcıda Aç
+chattweaks:gui.imagePreview.copyToClipboard=Panoya Kopyala
+chattweaks:gui.imagePreview.close=Kapat
+chattweaks:gui.imagePreview.loadingPreview=Önizleme Yükleniyor...
+
+chattweaks:gui.chat.tooltipEmote=Emoji:
+chattweaks:gui.chat.tooltipLocalEmotes=Yerel Emojiler
+chattweaks:gui.chat.tooltipEmoteChannel=Kanal:
+chattweaks:gui.chat.tooltipBTTVEmotes=BetterTTV
+chattweaks:gui.chat.tooltipFFZEmotes=FrankerFaceZ
+chattweaks:gui.chat.tooltipTwitchEmotes=Twitch Global
+chattweaks:gui.chat.tooltipTwitchPrimeEmotes=Twitch Prime
+
+chattweaks:gui.confirm.optionalModuleRequired=% S işlevi için isteğe bağlı bir modül yüklemeniz gerekir:
+chattweaks:gui.confirm.optionalModuleInstall=Lütfen ek modu yükleyin ve oyunu yeniden başlatın.
+
+chattweaks:config.channels.available=mevcut
+chattweaks:config.channels.selected=seçilmiş
+chattweaks:config.channels.select_channels=Kanalları Seç
+
+chattweaks:config.views.warnings=(%d uyarılar)
+chattweaks:config.views.muted=(muted)
+
+chattweaks:config.category.general=Genel
+chattweaks:config.category.general.tooltip=§cHiçbir ipucu sağlanmadı.
+chattweaks:config.category.emotes=Emojiler
+chattweaks:config.category.emotes.tooltip=§cHiçbir ipucu sağlanmadı.
+chattweaks:config.category.theme=Tema
+chattweaks:config.category.theme.tooltip=§cHiçbir ipucu sağlanmadı.
+chattweaks:config.category.views=Görüntülenme
+chattweaks:config.category.views.tooltip=§cHiçbir ipucu sağlanmadı.
+chattweaks:config.category.twitch_integration=Twitch Entegrasyonu
+chattweaks:config.category.twitch_integration.tooltip=§cHiçbir ipucu sağlanmadı.
+
+key.categories.chattweaks=Chat Tweaks
+key.chattweaks.switch_chat_view=Sohbet Görünümünü Değiştir
